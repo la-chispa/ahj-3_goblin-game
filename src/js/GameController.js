@@ -12,7 +12,6 @@ export default class GameController {
     this.gamePlay.next();
     this.setMoveListeners();
     this.setResetListeners();
-    console.log(this);
   }
 
   setMoveListeners() {

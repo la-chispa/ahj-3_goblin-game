@@ -76,6 +76,10 @@ h1 {
     background-image: url(../img/goblin.png);
 }
 
+.reset {
+    cursor: pointer;
+}
+
 .btn {
     align-self: center;
     width: 120px;
